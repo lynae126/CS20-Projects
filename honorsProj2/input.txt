@@ -1,0 +1,46 @@
+Andrew
+Johnson
+123 Wellington St
+(925)-123-4567
+10/10
+VIP
+.
+Checking Account 1
+4-star checking
+120
+10200
+.
+Checking Account 2
+4-star checking
+121
+240
+...
+John
+Brown
+456 Star St
+(925)-888-9999
+7/12
+retail
+.
+First Savings Account
+savings
+230
+20340
+...
+Annie
+White
+789 Hel Avenue
+(925)-222-4444
+2/18
+retail
+.
+Certificates of Deposit
+CD's
+892
+500000
+.
+piggybank
+savings
+765
+341
+...

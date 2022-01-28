@@ -1,0 +1,61 @@
+Honors Bank System
+--------------------
+Address: 123 Wall St.
+Phone #: (925)-222-333
+Number of Registered Users: 3
+
+
+--------------------
+Andrew Johnson
+------------------------
+Customer Type: VIP
+Address: 123 Wellington St
+Phone Number: (925)-123-4567
+Number of Accounts: 2
+Date First Account Opened: 10/10
+Listing information on all of Andrew Johnson's accounts...
+
+...
+Checking Account 1: 4-star checking
+-------------------
+Account Number: 120
+Account Balance: 10200.000000
+Checking Account 2: 4-star checking
+-------------------
+Account Number: 121
+Account Balance: 240.000000
+
+John Brown
+------------------------
+Customer Type: retail
+Address: 456 Star St
+Phone Number: (925)-888-9999
+Number of Accounts: 1
+Date First Account Opened: 7/12
+Listing information on all of John Brown's accounts...
+
+...
+First Savings Account: savings
+-------------------
+Account Number: 230
+Account Balance: 20340.000000
+
+Annie White
+------------------------
+Customer Type: retail
+Address: 789 Hel Avenue
+Phone Number: (925)-222-4444
+Number of Accounts: 2
+Date First Account Opened: 2/18
+Listing information on all of Annie White's accounts...
+
+...
+Certificates of Deposit: CD's
+-------------------
+Account Number: 892
+Account Balance: 500000.000000
+piggybank: savings
+-------------------
+Account Number: 765
+Account Balance: 341.000000
+
